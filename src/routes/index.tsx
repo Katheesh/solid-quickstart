@@ -4,13 +4,12 @@ import Counter from "~/components/Counter";
 export default function Home() {
   return (
     <main>
-      <Title>ZPULI</Title>
-      <h1>ZPULI</h1>
-      <h3>Coming soon!</h3>
+      <Title>zPULI</Title>
+      <h1>zPULI</h1>
       <Counter />
-      <p>
+      <small>
         Powered by <a href="https://gitleaf.com" target="_blank">GitLeaf</a>
-      </p>
+      </small>
     </main>
   );
 }
