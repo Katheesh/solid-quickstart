@@ -6,7 +6,8 @@ export default function Home() {
     <main>
       <Title>zPULI</Title>
       <h1>(Zero) Parallel Utility Line IOT</h1>
-      <Counter />
+      <br>
+      <br>
       <small>
         Think Smart Run with Zero Negativity
       </small>
