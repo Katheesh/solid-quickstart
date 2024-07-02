@@ -5,10 +5,10 @@ export default function Home() {
   return (
     <main>
       <Title>zPULI</Title>
-      <h1>zPULI</h1>
+      <h1>(Zero) Parallel Utility Line IOT</h1>
       <Counter />
       <small>
-        Powered by <a href="https://gitleaf.com" target="_blank">GitLeaf</a>
+        Think Smart Run with Zero Negativity
       </small>
     </main>
   );
